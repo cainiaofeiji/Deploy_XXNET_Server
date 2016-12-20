@@ -1,5 +1,6 @@
 # Deploy_XXNET_Server
 Deploy_XXNET_Server via Shadowsocks 1080 Port
+Fork 自 P大的 server.gae
 
 ## 使用说明
 * 本部署工具可以自动调用 Shadowsocks Socks5 代理的 1080 端口来部署 XXNET 服务端。
